@@ -1,0 +1,44 @@
+/* Task 2.7 */
+
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica+SC');
+
+body {
+  background-color:black;
+  font-size: 20px;
+}
+#app {
+  background-color:grey;
+  font-family: 'IM Fell DW Pica SC', serif;
+  margin: 0 auto;
+  width: 900px;
+  height: 700px;
+  margin-top: 100px;
+}
+.contactForm {
+  background:#064A99;
+  padding: 10px;	
+}  
+button, 
+input {
+  margin: 5px;
+  padding: 5px;
+}
+button {
+  background-color:#04689E;
+  color:white;
+  float: right;
+}
+.contactItem {
+  background-color:#F2FFA9;
+  padding: 20px;
+  margin: 15px 40px 15px 0;
+  height: 100px;
+}
+img {
+  width: 100px;
+  float: left;
+}
+a,p {
+  display: block;
+  margin: 5px 2px 5px 150px;
+}
